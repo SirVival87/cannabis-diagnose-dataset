@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bewaesserungsprobleme",
+    "name_de": "Bewaesserungsprobleme",
+    "name_en": "Watering Issues"
+  },
+  {
+    "id": "bluete-ernte",
+    "name_de": "Bluete-/Ernteprobleme",
+    "name_en": "Flowering/Harvest Problems"
+  },
+  {
+    "id": "krankheiten-pilzbefall",
+    "name_de": "Krankheiten / Pilzbefall",
+    "name_en": "Diseases / Fungal Infections"
+  },
+  {
+    "id": "lichtstress",
+    "name_de": "Lichtstress",
+    "name_en": "Light Stress"
+  },
+  {
+    "id": "naehrstoffmangel",
+    "name_de": "Naehrstoffmangel",
+    "name_en": "Nutrient Deficiency"
+  },
+  {
+    "id": "naehrstoffueberschuss",
+    "name_de": "Naehrstoffueberschuss",
+    "name_en": "Nutrient Excess"
+  },
+  {
+    "id": "ph-ec-probleme",
+    "name_de": "pH-/EC-Probleme",
+    "name_en": "pH/EC Issues"
+  },
+  {
+    "id": "schaedlinge",
+    "name_de": "Schaedlinge",
+    "name_en": "Pests"
+  },
+  {
+    "id": "klima-vpd",
+    "name_de": "Temperatur / Luftfeuchtigkeit / VPD",
+    "name_en": "Temperature/Humidity/VPD"
+  },
+  {
+    "id": "umweltstress",
+    "name_de": "Umweltstress",
+    "name_en": "Environmental Stress"
+  },
+  {
+    "id": "wachstum-training",
+    "name_de": "Wachstums- und Trainingsprobleme",
+    "name_en": "Growth & Training Problems"
+  },
+  {
+    "id": "wurzelprobleme",
+    "name_de": "Wurzelprobleme",
+    "name_en": "Root Problems"
+  }
+]

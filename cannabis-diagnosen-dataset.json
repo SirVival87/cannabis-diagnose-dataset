@@ -1,0 +1,1965 @@
+[
+  {
+    "slug": "anthracnose",
+    "name_de": "Anthracnose",
+    "name_en": "Anthracnose",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Pilzkrankheit mit unregelmässigen, eingesunkenen braunen Flecken, die oft ein Zielscheiben-Muster (konzentrische Ringe) zeigen und bei Feuchtigkeit klebrige Sporenmasse bilden können.",
+    "betroffene_pflanzenteile": [
+      "Blätter",
+      "Stängel",
+      "gelegentlich Blütenstände"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. bei feuchter Witterung"
+    ],
+    "erste_symptome": [
+      "kleine, eingesunkene braune Flecken auf Blättern oder Stängeln"
+    ],
+    "typische_ursachen": [
+      "anhaltend feuchte Bedingungen, v.a. bei Outdoor-Anbau oder hoher Luftfeuchtigkeit Indoor",
+      "Pilzsporen-Verbreitung durch Spritzwasser"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "bakterielle-blattflecken-welke",
+    "name_de": "Bakterielle Blattflecken / Welke",
+    "name_en": "Bacterial Leaf Spot / Wilt",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Seltenere bakterielle (statt pilzliche) Infektion mit oft wasserglasig wirkenden, dann braun-schwarz werdenden Flecken, manchmal mit gelbem Hof (Halo) - kein mehliger oder wattiger Belag wie bei Pilzbefall.",
+    "betroffene_pflanzenteile": [
+      "Blätter"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "kleine, wasserglasig-durchscheinende Flecken auf den Blättern"
+    ],
+    "typische_ursachen": [
+      "Eintritt von Bakterien über Verletzungen (Insektenfraß, Trainingsschnitte) oder durch Spritzwasser",
+      "feuchte Bedingungen fördern bakterielle Vermehrung und Ausbreitung"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "blattlaeuse",
+    "name_de": "Blattläuse",
+    "name_en": "Aphids",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Kleine, birnenförmige Insekten, die in Gruppen an jungen Trieben und Blattunterseiten sitzen und eine klebrige Honigtau-Substanz absondern, die oft Schwärzepilz anzieht.",
+    "betroffene_pflanzenteile": [
+      "junge Triebe",
+      "Blattunterseiten",
+      "Blattachseln"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "kleine Gruppen grünlicher bis schwarzer Insekten an Triebspitzen und Blattunterseiten",
+      "leicht klebrige, glänzende Oberfläche auf Blättern (Honigtau)"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Pflanzen oder von aussen einfliegende geflügelte Blattläuse",
+      "Ameisen können Blattläuse aktiv \"kultivieren\" und verbreiten wegen des Honigtaus"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-schaedlinge-erkennen/",
+      "https://meineplantage.de/blattlaeuse-cannabis-bekaempfen/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "bor-mangel",
+    "name_de": "Bor-Mangel",
+    "name_en": "Boron Deficiency (B)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Seltener immobiler Mikronährstoff-Mangel, betrifft das Apikalmeristem (Wachstumsspitze) - bei starkem Mangel stirbt die Triebspitze ab.",
+    "betroffene_pflanzenteile": [
+      "Wachstumsspitzen (Apikalmeristem)",
+      "neue Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "leichte Verkrümmung/Verdrehung neuer Blätter",
+      "leicht verdickte, brückige neue Triebe"
+    ],
+    "typische_ursachen": [
+      "zu hoher pH-Wert blockiert Bor-Aufnahme",
+      "sehr seltene echte Substratarmut",
+      "Überkalkung des Substrats (zu viel Calcium ohne Bor-Ausgleich)"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "bortoxizitaet",
+    "name_de": "Bor-Toxizität",
+    "name_en": "Boron Toxicity",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Bor hat die schmalste Marge zwischen Mangel und Toxizität aller Nährstoffe - schon leichte Überdosierung verursacht gelbe Randverbrennung an älteren Blättern.",
+    "betroffene_pflanzenteile": [
+      "Blattränder älterer Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "gelbe Randzone an älteren Blättern, beginnend an der Blattspitze"
+    ],
+    "typische_ursachen": [
+      "Überdosierung eines Bor-Präparats (häufigster Fehler: zu hohe Konzentration bei Eigenmischung)",
+      "Verwendung borhaltigen Brunnenwassers in Kombination mit zusätzlicher Bor-Düngung"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "breitmilben-russet-mites",
+    "name_de": "Breitmilben (Russet Mites)",
+    "name_en": "Broad/Russet Mites",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Extrem kleine, mit blossem Auge praktisch unsichtbare Milben, die erst spät durch diffuse Vergilbung, glänzende/lederartige Blattoberfläche und nach unten gebogene Blattstiele auffallen.",
+    "betroffene_pflanzenteile": [
+      "neue Blätter und Triebspitzen",
+      "Blattstiele"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, oft spät in der Blüte entdeckt"
+    ],
+    "erste_symptome": [
+      "leicht glänzende, fast lederartig wirkende Oberfläche an neuen Blättern",
+      "leichtes Abwärtskrümmen der Blattstiele"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Klone/Mutterpflanzen (häufigster Übertragungsweg)",
+      "sehr schwer durch normale Hygienemassnahmen zu verhindern wegen der mikroskopischen Grösse"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "bud-rot-botrytis",
+    "name_de": "Bud Rot (Botrytis)",
+    "name_en": "Bud Rot",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Grauschimmel-Pilz, der sich von innen heraus in dichten Blütenständen ausbreitet - von aussen oft erst sichtbar, wenn der befallene Bereich bereits braun/grau verfärbt und matschig ist.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände, beginnend im Inneren"
+    ],
+    "wachstumsphase": [
+      "Blütephase, v.a. mittlere bis späte Blüte"
+    ],
+    "erste_symptome": [
+      "einzelne Blüten innerhalb eines Blütenstandes verfärben sich braun/grau und wirken leicht eingefallen",
+      "bei genauer Untersuchung des Inneren feiner grauer Pilzrasen sichtbar"
+    ],
+    "typische_ursachen": [
+      "hohe Luftfeuchtigkeit kombiniert mit dichten, schlecht durchlüfteten Blütenständen",
+      "Temperaturschwankungen mit Kondensationsbildung (siehe Kondensation/Taubildung als Vorstufe)",
+      "Verletzungen durch Schädlinge (z.B. Budworm) als Eintrittspforte"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/grauschimmel-cannabis-botrytis-erkennen/",
+      "https://meineplantage.de/cannabis-regenschutz-outdoor/",
+      "https://meineplantage.de/cannabis-schimmel-regen/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "calciummangel",
+    "name_de": "Calciummangel",
+    "name_en": "Calcium Deficiency (Ca)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Immobiler Mikro-/Sekundärnährstoff-Mangel, betrifft daher NEUE Blätter und Triebe zürst. Typisch sind kleine braune/rostige Flecken und verkrümmte neue Triebspitzen.",
+    "betroffene_pflanzenteile": [
+      "neue Blätter und Triebspitzen",
+      "Blütenstände bei fortgeschrittenem Mangel"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Blüte (erhöht Risiko für Botrytis bei starkem Mangel)"
+    ],
+    "erste_symptome": [
+      "kleine braune/rostige Flecken auf neuen, oberen Blättern",
+      "leicht verkrümmte oder deformierte neue Triebspitzen"
+    ],
+    "typische_ursachen": [
+      "zu niedriger pH-Wert blockiert Ca-Aufnahme",
+      "reines Osmosewasser ohne Cal-Mag-Zusatz",
+      "zu schnelles Wachstum bei unzureichendem Ca-Angebot",
+      "Hydro-Systeme ohne Calcium-Erganzung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/kalziummangel-cannabis/",
+      "https://meineplantage.de/cannabis-blattspitzen-braun/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "calciumueberschuss-ueberkalkung",
+    "name_de": "Calciumüberschuss / Überkalkung",
+    "name_en": "Calcium Excess / Overliming",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Zu viel Calcium (oft durch Überkalkung des Substrats) hebt den pH-Wert zu stark an und blockiert dadurch die Aufnahme von Mikronährstoffen wie Eisen, Mangan, Zink und Bor.",
+    "betroffene_pflanzenteile": [
+      "neue Blätter",
+      "Triebspitzen"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "leichte interveinale Chlorose an neuen Blättern (Fe-Mangel-Folge)",
+      "pH-Wert im Substrat ungewöhnlich hoch (über 7.0)"
+    ],
+    "typische_ursachen": [
+      "zu hohe Kalkmenge bei Substrat-Vorbereitung (Dolomitkalk/Gartenkalk überdosiert)",
+      "sehr hartes, calciumreiches Leitungswasser über lange Zeit ohne pH-Korrektur"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "chlor-chloramin-wasser",
+    "name_de": "Chlor-/Chloramin-Belastung im Leitungswasser",
+    "name_en": "Chlorine/Chloramine Water Stress",
+    "kategorie": "Bewaesserungsprobleme",
+    "kurzbeschreibung": "Stark gechlortes oder chloramin-versetztes Leitungswasser (typisch städtisch) kann Wurzelhaare und nützliche Mikroorganismen im Substrat schädigen, sichtbar als diffuses, unspezifisches Wachstumsdefizit.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze indirekt"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, besonders kritisch bei Living-Soil-Substraten"
+    ],
+    "erste_symptome": [
+      "leicht verlangsamtes Wachstum ohne sonst erkennbare Ursache",
+      "leicht blasse Gesamtfarbe trotz korrekter Düngung"
+    ],
+    "typische_ursachen": [
+      "direkte Verwendung von Leitungswasser ohne Abstehen-Lassen oder Filterung in Gegenden mit hoher Chlor-/Chloramin-Dosierung",
+      "besonders relevant bei Chloramin, das im Gegensatz zu Chlor nicht durch einfaches Abstehen-Lassen verfliegt"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-living-soil-substrat/"
+    ]
+  },
+  {
+    "slug": "chlorophyll-heugeruch-curing-fehler",
+    "name_de": "Chlorophyll-/Heugeruch (Curing-Fehler)",
+    "name_en": "Chlorophyll/Hay Smell (Curing Error)",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Zu schnelle Trocknung oder unzureichendes Curing verhindert den vollständigen Abbau von Chlorophyll und anderen Pflanzenstoffen - das Ergebnis riecht nach frisch gemähtem Heu statt nach dem erwarteten Sortenaroma.",
+    "betroffene_pflanzenteile": [
+      "getrocknete/gecurte Blütenstände"
+    ],
+    "wachstumsphase": [
+      "nach der Trocknung, Curing-Phase"
+    ],
+    "erste_symptome": [
+      "fertig getrocknete Buds riechen nach frisch gemähtem Gras/Heu statt nach dem erwarteten Terpenaroma der Sorte"
+    ],
+    "typische_ursachen": [
+      "zu schnelle Trocknung (zu hohe Temperatur oder zu niedrige Luftfeuchtigkeit), die den natürlichen enzymatischen Chlorophyll-Abbau verhindert",
+      "kein oder zu kurzes Curing (Lagerung in luftdichten Gefässen mit periodischem \"Burping\")",
+      "Ernte mit noch hohem Chlorophyllgehalt (z.B. durch starke Spätdüngung mit Stickstoff statt rechtzeitigem Flush)"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-curing-fermentieren-anleitung/"
+    ]
+  },
+  {
+    "slug": "co2-mangel",
+    "name_de": "CO2-Mangel",
+    "name_en": "CO2 Deficiency",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "In dicht abgeschlossenen Indoor-Zelten ohne Luftaustausch kann der CO2-Gehalt unter das für Photosynthese nötige Niveau fallen - sichtbar als generell verlangsamtes Wachstum trotz optimaler sonstiger Bedingungen.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. bei sehr dichten, schlecht belüfteten Zelten mit hoher Pflanzendichte"
+    ],
+    "erste_symptome": [
+      "allgemein langsameres Wachstum trotz optimaler Licht-, Temperatur- und Nährstoffbedingungen"
+    ],
+    "typische_ursachen": [
+      "kein oder unzureichender Luftaustausch (Zu-/Abluft) im Anbauraum",
+      "hohe Pflanzendichte verbraucht CO2 schneller als es nachströmt",
+      "komplett abgedichteter Raum ohne Frischluftzufuhr"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "co2-ueberschuss",
+    "name_de": "CO2-Überschuss",
+    "name_en": "CO2 Excess/Toxicity",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "Nur relevant bei aktiver CO2-Anreicherung in geschlossenen Räumen - zu hohe Konzentrationen können Blattschäden verursachen und sind ausserdem ein Gesundheitsrisiko für Menschen im Raum.",
+    "betroffene_pflanzenteile": [
+      "Blätter"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, nur bei aktiver CO2-Anreicherung relevant"
+    ],
+    "erste_symptome": [
+      "leichte, diffuse Blattverfärbung ohne klares Muster bei sehr hohen CO2-Werten"
+    ],
+    "typische_ursachen": [
+      "fehlerhaft eingestellte oder defekte CO2-Anreicherungsanlage",
+      "CO2-Zufuhr ohne entsprechend angepasste Lichtintensität (CO2-Nutzen braucht intensives Licht)"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "damping-off",
+    "name_de": "Damping-Off (Auflaufkrankheit)",
+    "name_en": "Damping-Off",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Pilzkrankheit speziell bei Keimlingen, die zu einer dünnen, wasserglasig-durchsichtigen, eingeschnürten Stelle am Stängel direkt über dem Substrat führt - der Keimling kippt daraufhin um und stirbt.",
+    "betroffene_pflanzenteile": [
+      "Stängelbasis bei Keimlingen"
+    ],
+    "wachstumsphase": [
+      "ausschliesslich Keimlingsphase"
+    ],
+    "erste_symptome": [
+      "dünne, wasserglasig-durchsichtig wirkende Einschnürung am Stängel direkt über der Substratoberfläche"
+    ],
+    "typische_ursachen": [
+      "zu feuchtes, schlecht belüfteted Substrat in der Keimlingsphase",
+      "zu wenig Luftzirkulation unter einer Feuchtigkeitshaube ohne Lüftungsöffnungen",
+      "kontaminiertes Anzuchtsubstrat"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-keimling-faellt-um/"
+    ]
+  },
+  {
+    "slug": "ec-zu-hoch",
+    "name_de": "EC-Wert zu hoch",
+    "name_en": "EC Too High (Salt Stress)",
+    "kategorie": "pH-/EC-Probleme",
+    "kurzbeschreibung": "Zu hohe Salzkonzentration in der Nährlösung oder im Substrat erschwert die Wasseraufnahme der Wurzeln osmotisch - sichtbar als hängende Blätter trotz feuchtem Substrat plus Verbrennungssymptome.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln (primär)",
+      "Blattspitzen",
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "leicht hängende Blätter trotz ausreichend feuchtem Substrat",
+      "dunkelgrüne Blattfarbe"
+    ],
+    "typische_ursachen": [
+      "Nährlösung mit zu hoher Gesamtkonzentration angesetzt",
+      "keine regelmässigen Spülgänge mit klarem Wasser",
+      "Substrat ohne ausreichende Drainage, Salze reichern sich kumulativ an"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/ec-wert-cannabis-messen/"
+    ]
+  },
+  {
+    "slug": "echter-mehltau",
+    "name_de": "Echter Mehltau",
+    "name_en": "Powdery Mildew",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Pilzkrankheit mit mehlig-pudrigem, weissem Belag auf der Blattoberfläche, der sich bei Berührung leicht abwischen lässt aber schnell wiederkehrt.",
+    "betroffene_pflanzenteile": [
+      "Blattoberseite",
+      "bei Fortschritt Blütenstände"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "kleine weisse, mehlig-pudrige Flecken auf der Blattoberseite"
+    ],
+    "typische_ursachen": [
+      "schlechte Luftzirkulation",
+      "zu enger Pflanzenabstand",
+      "mässige bis hohe Luftfeuchtigkeit ohne ausreichende Belüftung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "eisentoxizitaet",
+    "name_de": "Eisen-Toxizität",
+    "name_en": "Iron Toxicity",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Seltene Toxizität, meist Folge eines zu niedrigen pH-Werts, der zu viel Eisen lösbar macht - zeigt sich als bronzefarbene bis dunkle Flecken auf älteren Blättern.",
+    "betroffene_pflanzenteile": [
+      "ältere Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Blüte"
+    ],
+    "erste_symptome": [
+      "kleine bronzefarbene bis rotbraune Flecken auf älteren Blättern"
+    ],
+    "typische_ursachen": [
+      "zu niedriger pH-Wert (unter 5.5) macht Eisen im Substrat überverfügbar",
+      "extreme Überdosierung eines Eisen-Chelat-Präparats"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "eisenmangel",
+    "name_de": "Eisenmangel",
+    "name_en": "Iron Deficiency (Fe)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Immobiler Mikronährstoff-Mangel mit interveinaler Chlorose, aber im Gegensatz zu Magnesium an NEUEN/oberen Blättern. Oft pH-bedingt statt echter Mangel.",
+    "betroffene_pflanzenteile": [
+      "neue, obere Blätter",
+      "Triebspitzen"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Blüte"
+    ],
+    "erste_symptome": [
+      "hellgelbe bis fast weisse Bereiche zwischen den Adern an neuen oberen Blättern",
+      "Adern bleiben deutlich grün"
+    ],
+    "typische_ursachen": [
+      "zu hoher pH-Wert blockiert Fe-Aufnahme (häufigste Ursache, kein echter Fe-Mangel im Substrat)",
+      "kalte Wurzelzone",
+      "Überwässerung mit Sauerstoffmangel an den Wurzeln",
+      "Mangan-Überschuss verdrängt Eisen"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/eisenmangel-cannabis-chlorose/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "ernte-timing-fehler",
+    "name_de": "Ernte-Timing-Fehler",
+    "name_en": "Harvest Timing Errors",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Zu frühe oder zu späte Ernte beeinflusst Wirkungsprofil und Qualität erheblich - die Trichom-Farbe (milchig vs. bernsteinfarben) ist der zuverlässigste Indikator für den richtigen Zeitpunkt.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände, Trichome"
+    ],
+    "wachstumsphase": [
+      "Erntezeitpunkt am Ende der Blüte"
+    ],
+    "erste_symptome": [
+      "bei zu früher Ernte: Trichome überwiegend klar/durchsichtig statt milchig",
+      "bei zu später Ernte: hoher Anteil bernsteinfarbener/brauner Trichome, teils erste Stempelfäden komplett braun und eingetrocknet"
+    ],
+    "typische_ursachen": [
+      "fehlende oder ungenaue Kontrolle der Trichom-Farbe mit Lupe/Mikroskop",
+      "Ernte rein nach Kalendertag/Sortenangabe statt nach tatsächlichem Reifezustand",
+      "externer Zeitdruck (z.B. Outdoor-Wetterumschwung) erzwingt frühere oder spätere Ernte als optimal"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-erntezeitpunkt-trichome-bestimmen/"
+    ]
+  },
+  {
+    "slug": "etiolation-vergeilung",
+    "name_de": "Etiolation (Vergeilung)",
+    "name_en": "Etiolation",
+    "kategorie": "Lichtstress",
+    "kurzbeschreibung": "Zu wenig Licht führt zu unnatürlich starker Streckung der Internodien, dünnen Stängeln und blassen Blättern - die Pflanze \"sucht\" nach mehr Licht.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze, v.a. Stängel und Internodien"
+    ],
+    "wachstumsphase": [
+      "Keimlings- und frühe Wachstumsphase am kritischsten"
+    ],
+    "erste_symptome": [
+      "ungewöhnlich lange Abstände zwischen den Blattknoten",
+      "dünne, schwache Stängel"
+    ],
+    "typische_ursachen": [
+      "zu schwache Lichtquelle oder zu grosser Abstand zur Pflanze",
+      "zu wenig Lichtstunden pro Tag in der Wachstumsphase",
+      "starke Konkurrenz durch benachbarte, höhere Pflanzen die Schatten werfen"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/licht-cannabis-spektrum-beleuchtungsdauer/",
+      "https://meineplantage.de/cannabis-saemling-spargelig-etioliert/"
+    ]
+  },
+  {
+    "slug": "falscher-mehltau",
+    "name_de": "Falscher Mehltau",
+    "name_en": "Downy Mildew",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Anderer Erreger als Echter Mehltau - zeigt gelbe bis braune Flecken auf der Blattoberseite, während sich der eigentliche graue/weisse Pilzbelag auf der BLATTUNTERSEITE bildet.",
+    "betroffene_pflanzenteile": [
+      "Blattunterseite (Pilzbelag)",
+      "Blattoberseite (Verfärbung)"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. bei hoher Feuchtigkeit"
+    ],
+    "erste_symptome": [
+      "gelbliche, eckige Flecken auf der Blattoberseite, oft entlang der Blattadern begrenzt"
+    ],
+    "typische_ursachen": [
+      "anhaltend hohe Luftfeuchtigkeit, besonders in Kombination mit kühleren Temperaturen",
+      "schlechte Luftzirkulation, besonders an der Blattunterseite"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "foxtailing",
+    "name_de": "Foxtailing",
+    "name_en": "Foxtailing",
+    "kategorie": "Wachstums- und Trainingsprobleme",
+    "kurzbeschreibung": "Spitz auswachsende, geschichtete Blütenstände - kann genetisch normal (manche Sorten) oder eine Stressreaktion auf Hitze/intensives Licht sein, Unterscheidung erfolgt über Begleitumstände.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände"
+    ],
+    "wachstumsphase": [
+      "mittlere bis späte Blüte"
+    ],
+    "erste_symptome": [
+      "Blütenstand wirkt spitzer und länglicher als erwartet, mit erkennbar geschichteten Abschnitten"
+    ],
+    "typische_ursachen": [
+      "genetische Sortencharakteristik (manche Sativa-dominante Linien neigen natürlich zum Foxtailing)",
+      "Hitzestress",
+      "zu intensive Lichteinstrahlung auf die oberen Blütenstände"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "fusarium-welke-oberirdisch",
+    "name_de": "Fusarium-Welke (oberirdisch)",
+    "name_en": "Fusarium Wilt",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Systemische Pilzinfektion des Leitgewebes, die unabhängig von der Wurzelfäule-Variante oberirdisch durch fortschreitendes, einseitiges Welken ganzer Äste und eine charakteristische Braunfärbung im Stengelquerschnitt auffällt.",
+    "betroffene_pflanzenteile": [
+      "Leitgewebe (Xylem)",
+      "Stängel",
+      "ganze Zweige"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "ein oder mehrere Zweige welken, während der Rest der Pflanze gesund wirkt",
+      "leichte Verfärbung der Blattadern auf welkenden Zweigen"
+    ],
+    "typische_ursachen": [
+      "Pilzinfektion über Wurzelverletzungen oder kontaminiertes Substrat/Pflanzenmaterial",
+      "Stress (Hitze, Wassermangel) kann den Krankheitsverlauf beschleunigen"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "fusarium-wurzelfaeule",
+    "name_de": "Fusarium-Wurzelfäule",
+    "name_en": "Fusarium Root Rot",
+    "kategorie": "Wurzelprobleme",
+    "kurzbeschreibung": "Bodenpilz, der Wurzeln und unteren Stängel befällt - im Unterschied zu Pythium oft mit zusätzlichem einseitigem Welken einzelner Zweige statt der ganzen Pflanze gleichzeitig.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "unterer Stängel",
+      "einzelne Zweige"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "einseitiges Welken einzelner Zweige, während der Rest der Pflanze normal wirkt",
+      "leichte Verfärbung am unteren Stängel"
+    ],
+    "typische_ursachen": [
+      "kontaminiertes Substrat oder Stecklingsmaterial",
+      "Wurzelverletzungen (z.B. beim Umtopfen) als Eintrittspforte",
+      "Stressbedingungen die das Immunsystem der Pflanze schwächen"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "gescheiterte-stecklingsbewurzelung",
+    "name_de": "Gescheiterte Stecklingsbewurzelung",
+    "name_en": "Failed Cutting/Clone Rooting",
+    "kategorie": "Wachstums- und Trainingsprobleme",
+    "kurzbeschreibung": "Ein Steckling bildet trotz an sich gesunder Optik über längere Zeit keine Wurzeln - hängt meist mit Schnitttechnik, Hormonbehandlung oder Klimabedingungen während der Bewurzelungsphase zusammen.",
+    "betroffene_pflanzenteile": [
+      "Stecklingsbasis",
+      "gesamter Steckling"
+    ],
+    "wachstumsphase": [
+      "Stecklings-/Bewurzelungsphase"
+    ],
+    "erste_symptome": [
+      "Steckling bleibt nach 1-2 Wochen ohne sichtbares neues Wachstum oder Wurzelansatz",
+      "leichtes, anhaltendes Welken trotz Feuchtigkeitszelt"
+    ],
+    "typische_ursachen": [
+      "schräger statt glatter Schnitt oder falscher Schnittwinkel/-ort am Mutterzweig",
+      "fehlende oder falsch angewendete Bewurzelungshormone",
+      "zu niedrige Substrat-/Lufttemperatur, zu wenig Bodenwärme",
+      "Mutterpflanze selbst in schlechter Vitalität (z.B. durch HLVd, siehe [[hop-latent-viroid-hlvd]])"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-stecklinge-schneiden-und-bewurzeln/"
+    ]
+  },
+  {
+    "slug": "hermaphroditismus-stressbananen",
+    "name_de": "Hermaphroditismus (Stressbananen)",
+    "name_en": "Hermaphroditism / Stress Nanners",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Stress oder genetische Veranlagung führt zur Bildung männlicher Blütenstrukturen (\"Bananen\") an einer eigentlich weiblichen Pflanze - Risiko der Selbstbestäubung und Samenbildung.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände"
+    ],
+    "wachstumsphase": [
+      "Blütephase"
+    ],
+    "erste_symptome": [
+      "kleine, gelblich-bananenförmige Strukturen einzeln zwischen den weiblichen Blütenkelchen sichtbar"
+    ],
+    "typische_ursachen": [
+      "anhaltender Umweltstress (Hitze, Lichtleck, Wassermangel, mechanische Verletzung) während der Blüte",
+      "genetische Veranlagung mancher instabiler Sorten/Phänotypen zur Zwitterbildung",
+      "späte Ernte mit überreifer Pflanze (natürliches Alterssignal)"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "hitzestress",
+    "name_de": "Hitzestress",
+    "name_en": "Heat Stress",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "Zu hohe Temperaturen (besonders in Kombination mit zu nahem Licht) führen zu taco-förmig eingerollten Blättern, hellen Blattspitzen und allgemeinem Welken trotz ausreichender Bewässerung.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze, v.a. obere lichtnahe Blätter"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "Blattränder rollen sich taco-förmig nach oben ein",
+      "leichtes Welken auch bei feuchtem Substrat"
+    ],
+    "typische_ursachen": [
+      "zu hohe Raumtemperatur, oft durch unzureichende Kühlung/Abluft",
+      "Lampe zu nah am Blätterdach (zusätzliche Strahlungshitze)",
+      "fehlende oder unzureichende Luftzirkulation"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-blattspitzen-braun/",
+      "https://meineplantage.de/cannabis-blaetter-rollen-sich-ein/",
+      "https://meineplantage.de/cannabis-gelbe-blaetter-bluete/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/",
+      "https://meineplantage.de/cannabis-temperatur-optimieren/"
+    ]
+  },
+  {
+    "slug": "hop-latent-viroid-hlvd",
+    "name_de": "Hop Latent Viroid (HLVd)",
+    "name_en": "Hop Latent Viroid",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Hochrelevantes, oft unterschätztes Viroid (\"Dudding Disease\"), das systemisch über Klone/Mutterpflanzen verbreitet wird und zu schleichendem Vitalitäts- und Ertragsverlust ohne eindeutiges Einzelsymptom führt.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze, systemisch"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, Symptome oft erst nach mehreren Vermehrungszyklen deutlich"
+    ],
+    "erste_symptome": [
+      "leicht reduzierte Wuchsgeschwindigkeit über mehrere Generationen von Klonen",
+      "leicht brückigere, dünnere Triebe als bei der Ausgangspflanze"
+    ],
+    "typische_ursachen": [
+      "Übertragung durch Werkzeuge (Scheren, Messer) zwischen Pflanzen ohne Desinfektion",
+      "Übertragung durch Wurzelkontakt in Hydro-Systemen oder dichten Pflanzungen",
+      "Erwerb bereits infizierter Klone/Genetik"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "kaliummangel",
+    "name_de": "Kaliummangel",
+    "name_en": "Potassium Deficiency (K)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Mobiler Makronährstoff-Mangel, typisch sind hellbraune bis gelbe, verbrannt wirkende Blattränder und -spitzen bei sonst grüner Blattmitte.",
+    "betroffene_pflanzenteile": [
+      "Blattränder und -spitzen älterer Blätter",
+      "gesamte Pflanze bei Fortschritt"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "besonders kritisch in der Blüte"
+    ],
+    "erste_symptome": [
+      "gelbe Punkte/Flecken an Blatträndern älterer Blätter",
+      "leichtes Aufwärtskrümmen der Blattränder"
+    ],
+    "typische_ursachen": [
+      "zu wenig Kalium im Dünger, besonders in der Blüte",
+      "Überdüngung mit anderen Nährstoffen blockiert K-Aufnahme (Antagonismus)",
+      "zu hoher EC-Wert generell",
+      "Calcium- oder Magnesium-Überschuss verdrängt Kalium"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/kaliummangel-cannabis-erkennen/",
+      "https://meineplantage.de/cannabis-gelbe-blaetter-bluete/"
+    ]
+  },
+  {
+    "slug": "kaliumueberschuss",
+    "name_de": "Kaliumüberschuss",
+    "name_en": "Potassium Excess",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Zu viel Kalium blockiert die Aufnahme von Calcium und Magnesium (Antagonismus) - sichtbar wird meist nicht der Kaliumüberschuss selbst, sondern ein induzierter Ca/Mg-Mangel.",
+    "betroffene_pflanzenteile": [
+      "neue Blätter (Ca-Mangel-Folge)",
+      "ältere Blätter (Mg-Mangel-Folge)"
+    ],
+    "wachstumsphase": [
+      "Blüte (häufigste Phase wegen K-betonter Dünger)"
+    ],
+    "erste_symptome": [
+      "interveinale Chlorose an alten Blättern wie bei Mg-Mangel",
+      "leichte Deformation neuer Blätter wie bei Ca-Mangel"
+    ],
+    "typische_ursachen": [
+      "zu hoch dosierter Blütendünger mit starkem K-Übergewicht",
+      "zu lange ausschliessliche Verwendung von PK-Boostern ohne Grunddünger-Ausgleich"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "kaeltestress",
+    "name_de": "Kältestress",
+    "name_en": "Cold Stress",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "Zu niedrige Temperaturen verlangsamen Stoffwechsel und Nährstoffaufnahme (v.a. Phosphor), sichtbar oft als lila-rote Verfärbung der Blattstiele und verlangsamtes Wachstum.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze, v.a. Blattstiele und Stängel"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. Outdoor in kühleren Nachtphasen"
+    ],
+    "erste_symptome": [
+      "leichte lila-rote Verfärbung der Blattstiele",
+      "leicht verlangsamtes Wachstum"
+    ],
+    "typische_ursachen": [
+      "zu niedrige Raumtemperatur, v.a. nachts oder bei fehlender Heizung",
+      "Outdoor-Anbau bei frühem Frost oder kühlen Herbstnächten",
+      "kaltes Giesswasser (siehe [[wassertemperatur-stress]]) als zusätzlicher Faktor"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/kaeltestress-cannabis/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/",
+      "https://meineplantage.de/cannabis-temperatur-optimieren/"
+    ]
+  },
+  {
+    "slug": "kondensation-taubildung-bluetenstaende",
+    "name_de": "Kondensation/Taubildung an Blütenständen",
+    "name_en": "Condensation on Buds",
+    "kategorie": "Temperatur / Luftfeuchtigkeit / VPD",
+    "kurzbeschreibung": "Temperaturschwankungen (v.a. nachts oder bei Outdoor-Anbau) lassen Feuchtigkeit auf den Blütenständen kondensieren - eine direkte Vorstufe zu Botrytis, die als eigenständiges Risiko von echtem Bud Rot unterschieden werden sollte.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände"
+    ],
+    "wachstumsphase": [
+      "Blütephase"
+    ],
+    "erste_symptome": [
+      "sichtbare Wassertropfen/Feuchtigkeitsfilm auf und in den Blütenständen, v.a. morgens oder nach Temperaturabfall"
+    ],
+    "typische_ursachen": [
+      "starke Temperaturschwankungen zwischen Tag und Nacht",
+      "unzureichende Luftzirkulation innerhalb dichter Blütenstände",
+      "Outdoor-Anbau mit Nächten nahe dem Taupunkt"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-regenschutz-outdoor/",
+      "https://meineplantage.de/cannabis-schimmel-regen/"
+    ]
+  },
+  {
+    "slug": "larfy-popcorn-buds",
+    "name_de": "Larfy/Popcorn-Buds",
+    "name_en": "Larfy/Popcorn Buds",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Kleine, lockere, unterentwickelte Blütenstände v.a. in unteren, schlecht belichteten Pflanzenbereichen - meist eine Folge von Lichtmangel statt einer eigenständigen Krankheit.",
+    "betroffene_pflanzenteile": [
+      "untere Blütenstände"
+    ],
+    "wachstumsphase": [
+      "Blütephase"
+    ],
+    "erste_symptome": [
+      "untere Blütenstände entwickeln sich sichtbar langsamer und lockerer als die oberen"
+    ],
+    "typische_ursachen": [
+      "unzureichende Lichtintensität in unteren Pflanzenbereichen (Beschattung durch oberes Blätterdach)",
+      "ungleichmässiges Blätterdach nach SCRoG/Mainlining-Fehlern (siehe [[ungleichmässiges-blätterdach-scrog-mainlining]])",
+      "zu hohe Pflanzendichte mit gegenseitiger Beschattung"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "leaf-septoria",
+    "name_de": "Leaf Septoria (Septoria-Blattflecken)",
+    "name_en": "Septoria Leaf Spot",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Pilzkrankheit mit runden, gelb-braun geränderten Flecken meist an unteren, älteren Blättern, die sich bei Feuchtigkeit ausbreitet und zu fortschreitendem Blattverlust von unten nach oben führt.",
+    "betroffene_pflanzenteile": [
+      "untere, ältere Blätter zürst"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. Outdoor bei feuchter Witterung"
+    ],
+    "erste_symptome": [
+      "kleine runde, gelblich-braune Flecken mit etwas dunklerem Rand auf unteren Blättern"
+    ],
+    "typische_ursachen": [
+      "feuchte Witterung, v.a. bei Outdoor-Anbau",
+      "Pilzsporen aus dem Vorjahr im Boden oder von befallenen Pflanzenresten",
+      "schlechte Luftzirkulation im unteren Pflanzenbereich"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "lichtverbrennung-light-burn",
+    "name_de": "Lichtverbrennung (Light Burn)",
+    "name_en": "Light Burn",
+    "kategorie": "Lichtstress",
+    "kurzbeschreibung": "Zu geringer Abstand zur Lampe oder zu hohe Lichtintensität verursacht Verbrennung an den obersten, der Lampe am nächsten stehenden Blättern - charakteristisch ist die Konzentration auf die Spitze des Blätterdachs.",
+    "betroffene_pflanzenteile": [
+      "oberste Blätter und Blütenstände, nächste an der Lampe"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. unter LED mit hoher Intensität"
+    ],
+    "erste_symptome": [
+      "gelbliche bis bleiche Verfärbung der obersten Blattspitzen, am nächsten zur Lampe",
+      "leicht nach oben gewölbte Blätter (Richtung Licht)"
+    ],
+    "typische_ursachen": [
+      "zu geringer Abstand zwischen Lampe und Blätterdach",
+      "zu hohe Lichtintensität für die Wachstumsphase/Sortentoleranz",
+      "ungleichmässiges Wachstum mit einzelnen Spitzen, die zu nah an die Lampe heranwachsen"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-led-lichtverbrennung-erkennen/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "luftfeuchtigkeit-zu-niedrig",
+    "name_de": "Luftfeuchtigkeit zu niedrig",
+    "name_en": "Humidity Too Low",
+    "kategorie": "Temperatur / Luftfeuchtigkeit / VPD",
+    "kurzbeschreibung": "Eigenständiges Klimaproblem unabhängig von VPD-Berechnung - sehr trockene Luft führt zu Tip Burn und schnellem Substrat-Austrocknen, besonders kritisch bei jungen Pflanzen/Stecklingen.",
+    "betroffene_pflanzenteile": [
+      "Blattspitzen",
+      "gesamte Pflanze, v.a. Stecklinge/Keimlinge"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, kritisch in der Steckling-/Keimlingsphase"
+    ],
+    "erste_symptome": [
+      "leicht trockene, knusprige Blattspitzen ohne sonstige Mangelsymptome",
+      "schnelleres Austrocknen des Substrats als erwartet"
+    ],
+    "typische_ursachen": [
+      "zu trockene Raumluft, v.a. in beheizten Räumen im Winter",
+      "fehlende Luftbefeuchtung im Anbauraum",
+      "bei Stecklingen: kein Feuchtigkeitszelt/keine Abdeckung während der Bewurzelungsphase"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/luftfeuchtigkeit-cannabis-anbau/"
+    ]
+  },
+  {
+    "slug": "magnesiummangel",
+    "name_de": "Magnesiummangel",
+    "name_en": "Magnesium Deficiency (Mg)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Mobiler Sekundärnährstoff-Mangel mit dem klassischsten alle Mangelbilder: interveinale Chlorose an alten Blättern, Adern bleiben deutlich grün.",
+    "betroffene_pflanzenteile": [
+      "untere, ältere Fanblätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Blüte"
+    ],
+    "erste_symptome": [
+      "gelbe Bereiche zwischen den Blattadern an unteren Blättern",
+      "Blattadern selbst bleiben deutlich grün"
+    ],
+    "typische_ursachen": [
+      "zu wenig Magnesium im Dünger oder Substrat",
+      "zu hartes/zu weiches Wasser ohne Mg-Anteil",
+      "Kalium- oder Calcium-Überschuss verdrängt Mg-Aufnahme (Antagonismus)",
+      "zu niedriger pH-Wert"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/fleckige-cannabis-blaetter/",
+      "https://meineplantage.de/cannabis-gelbe-blaetter-bluete/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "mangantoxizitaet",
+    "name_de": "Mangan-Toxizität",
+    "name_en": "Manganese Toxicity",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Seltene Toxizität bei zu niedrigem pH oder Überdosierung von Mikronährstoff-Mixen, zeigt sich als dunkle Flecken mit chlorotischem Hof an älteren bis mittleren Blättern.",
+    "betroffene_pflanzenteile": [
+      "mittlere bis ältere Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "kleine dunkle Flecken mit leicht gelblichem Hof auf mittleren Blättern"
+    ],
+    "typische_ursachen": [
+      "zu niedriger pH-Wert",
+      "Überdosierung eines Mikronährstoff-Komplexpräparats"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "manganmangel",
+    "name_de": "Manganmangel",
+    "name_en": "Manganese Deficiency (Mn)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Immobiler Mikronährstoff-Mangel, sieht Eisenmangel sehr ähnlich (interveinale Chlorose an mittleren/neuen Blättern), oft begleitet von kleinen braunen Prünkeln.",
+    "betroffene_pflanzenteile": [
+      "mittlere bis neue Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Blüte"
+    ],
+    "erste_symptome": [
+      "interveinale Chlorose an mittleren/neuen Blättern",
+      "kleine braune Sprenkel/Punkte verteilt im chlorotischen Bereich"
+    ],
+    "typische_ursachen": [
+      "zu hoher pH-Wert blockiert Mn-Aufnahme",
+      "Eisen-Überschuss verdrängt Mangan (Antagonismus)",
+      "sehr seltene echte Mn-Armut im Substrat"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "minierfliegen",
+    "name_de": "Minierfliegen",
+    "name_en": "Leaf Miners",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Larven kleiner Fliegen, die sich INNERHALB des Blattgewebes fressen und dabei charakteristische, geschlängelte helle Gänge (Minen) im Blatt hinterlassen.",
+    "betroffene_pflanzenteile": [
+      "Blattinneres"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "dünne, geschlängelte helle Linien/Gänge sichtbar innerhalb der Blattfläche"
+    ],
+    "typische_ursachen": [
+      "adulte Minierfliegen legen Eier in das Blattgewebe, aus denen die minierenden Larven schlüpfen",
+      "häufiger bei Outdoor-Anbau oder in der Nähe befallener anderer Pflanzen"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "naehrstoffbrand-ueberduengung",
+    "name_de": "Nährstoffbrand / Überdüngung",
+    "name_en": "Nutrient Burn / Overfertilization",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Generelle Überdosierung mehrerer Nährstoffe gleichzeitig - im Gegensatz zu Einzelmangel verbrennen Spitzen an JUNGEN UND ALTEN Blättern gleichzeitig.",
+    "betroffene_pflanzenteile": [
+      "Blattspitzen aller Etagen",
+      "Blattränder"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Blüte"
+    ],
+    "erste_symptome": [
+      "gelbe bis braune Verfärbung der äussersten Blattspitzen, an mehreren Etagen gleichzeitig",
+      "Blätter wirken insgesamt sehr dunkelgrün"
+    ],
+    "typische_ursachen": [
+      "zu hohe Dünger-Gesamtkonzentration (EC zu hoch)",
+      "mehrere Düngerprodukte gleichzeitig ohne Reduktion der Einzeldosis kombiniert",
+      "zu häufige Düngung ohne Phasen mit klarem Wasser"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-ueberduengung/",
+      "https://meineplantage.de/cannabis-blattspitzen-braun/"
+    ]
+  },
+  {
+    "slug": "ph-lockout",
+    "name_de": "pH-Lockout",
+    "name_en": "pH Nutrient Lockout",
+    "kategorie": "pH-/EC-Probleme",
+    "kurzbeschreibung": "Der pH-Wert liegt so weit ausserhalb des optimalen Bereichs, dass mehrere Nährstoffe gleichzeitig blockiert werden - Leitsymptom ist ein gemischtes, nicht eindeutiges Mangelbild an mehreren Blattetagen.",
+    "betroffene_pflanzenteile": [
+      "mehrere Blattetagen gleichzeitig"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "mehrere leichte, unterschiedliche Mangelsymptome gleichzeitig statt eines klaren Einzelbilds",
+      "allgemein verlangsamtes Wachstum trotz korrekter Düngung"
+    ],
+    "typische_ursachen": [
+      "pH-Wert dauerhaft ausserhalb 6.0-7.0 (Erde) bzw. 5.5-6.5 (Hydro/Coco)",
+      "falsch kalibrierter oder defekter pH-Messer",
+      "keine regelmässige pH-Kontrolle des Substrats/der Nährlösung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/ph-wert-cannabis-einstellen/",
+      "https://meineplantage.de/cannabis-blaetter-rollen-sich-ein/"
+    ]
+  },
+  {
+    "slug": "ph-zu-niedrig",
+    "name_de": "pH-Wert zu niedrig",
+    "name_en": "pH Too Low (Acidic)",
+    "kategorie": "pH-/EC-Probleme",
+    "kurzbeschreibung": "Ein zu saures Substrat/Nährlösung (unter 5.5-6.0) macht Mikronährstoffe wie Eisen und Mangan überverfügbar (Toxizitätsrisiko) und blockiert gleichzeitig Calcium, Magnesium und Phosphor.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze, je nach blockiertem Nährstoff unterschiedlich"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "leichte Mischsymptome aus Ca/Mg-Mangel und ggf. beginnende Fe/Mn-Toxizität",
+      "allgemein verlangsamtes Wachstum"
+    ],
+    "typische_ursachen": [
+      "Verwendung stark saurer Dünger ohne pH-Pufferung",
+      "zu aggressive pH-Down-Korrektur ohne Zwischenmessung",
+      "natürlich saures Substrat (z.B. reiner Torf) ohne Kalk-Ausgleich"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/ph-wert-cannabis-einstellen/"
+    ]
+  },
+  {
+    "slug": "phosphormangel",
+    "name_de": "Phosphormangel",
+    "name_en": "Phosphorus Deficiency (P)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Mobiler Makronährstoff-Mangel mit charakteristischer Lila/Rotfärbung an Blattstielen und -unterseiten, oft mit dunkelgrüner bis bläulicher Blattfarbe.",
+    "betroffene_pflanzenteile": [
+      "untere und mittlere Blätter",
+      "Blattstiele",
+      "Stängel"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "besonders kritisch in der Blüte (P-Bedarf steigt)"
+    ],
+    "erste_symptome": [
+      "dunkelgrüne, fast bläuliche Blattfarbe",
+      "rote/lila Verfärbung der Blattstiele und -unterseiten",
+      "leicht verlangsamtes Wachstum"
+    ],
+    "typische_ursachen": [
+      "zu niedriger Phosphoranteil im Dünger",
+      "zu kalte Wurzelzone (unter 18 Grad, P-Aufnahme stark temperaturabhängig)",
+      "pH-Wert ausserhalb 6.0-7.0 (Erde) bzw. 6.0-6.5 (Hydro)",
+      "genetisch bedingte Lila-Färbung bei manchen Sorten (Verwechslungsgefahr!)"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/phosphormangel-cannabis-symptome/",
+      "https://meineplantage.de/cannabis-gelbe-blaetter-bluete/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "photobleaching",
+    "name_de": "Photobleaching (Lichtbleichung)",
+    "name_en": "Photobleaching",
+    "kategorie": "Lichtstress",
+    "kurzbeschreibung": "Extreme Lichtintensität zerstört Chlorophyll schneller als die Pflanze es nachbilden kann - im Unterschied zur Lichtverbrennung wird das Blattgewebe nicht braun, sondern komplett weiss/bleich, ohne abzusterben.",
+    "betroffene_pflanzenteile": [
+      "oberste Blätter und Blütenstände"
+    ],
+    "wachstumsphase": [
+      "v.a. Blütephase unter sehr intensiven LED-Systemen"
+    ],
+    "erste_symptome": [
+      "weisslich-blasse, fast durchscheinende Färbung der obersten Blattbereiche"
+    ],
+    "typische_ursachen": [
+      "extrem hohe Lichtintensität (deutlich über dem für die Sorte/Phase empfohlenen PPFD-Wert), typisch bei modernen Hochleistungs-LEDs ohne ausreichenden Abstand"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/licht-cannabis-spektrum-beleuchtungsdauer/"
+    ]
+  },
+  {
+    "slug": "pythium-wurzelfaeule",
+    "name_de": "Pythium-Wurzelfäule",
+    "name_en": "Pythium Root Rot",
+    "kategorie": "Wurzelprobleme",
+    "kurzbeschreibung": "Wasserschimmel-Erreger, der in dauerhaft nassem, sauerstoffarmem Substrat Wurzeln braun und schleimig zerfallen lässt - oberirdisch zeigt sich plötzliches Welken trotz feuchtem Substrat.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze (Folgesymptome)"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, besonders Hydro/Coco-Systeme"
+    ],
+    "erste_symptome": [
+      "leichtes Welken trotz feuchtem Substrat",
+      "leicht verlangsamtes Wachstum"
+    ],
+    "typische_ursachen": [
+      "dauerhaft zu nasses, sauerstoffarmes Substrat",
+      "zu hohe Nährlösungstemperatur in Hydro-Systemen (über 24 Grad fördert Pythium)",
+      "kontaminiertes Equipment/Wasser"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/pythium-cannabis-wurzel/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "raupen-eulenfalter",
+    "name_de": "Raupen / Eulenfalter-Larven",
+    "name_en": "Caterpillars / Budworms",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Grössere Insektenlarven (v.a. Outdoor), die sichtbare, unregelmässige Frasslöcher in Blätter und teils direkt in Blütenstände fressen - bei Blütenbefall (\"Budworm\") besonders kritisch, da Fraßgänge Botrytis-Eintrittspforten schaffen.",
+    "betroffene_pflanzenteile": [
+      "Blätter",
+      "Blütenstände bei Budworm-Befall"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. Outdoor-Anbau in der Blüte"
+    ],
+    "erste_symptome": [
+      "unregelmässige, grössere Frasslöcher in Blättern",
+      "sichtbarer Kot (kleine dunkle Kotkrumel) auf Blättern oder in Blütenständen"
+    ],
+    "typische_ursachen": [
+      "Eiablage durch Nachtfalter (Eulenfalter), v.a. bei Outdoor-Anbau",
+      "fehlender Schutz durch Kulturschutznetze"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "revegetation-reveg",
+    "name_de": "Revegetation (Reveg)",
+    "name_en": "Revegetation",
+    "kategorie": "Wachstums- und Trainingsprobleme",
+    "kurzbeschreibung": "Eine Pflanze in der Blüte kehrt durch einen Lichtfehler (z.B. versehentliche Verlängerung der Lichtstunden) zurück in vegetatives Wachstum - sichtbar an neuen, normalen Fanblättern direkt aus Blütenständen heraus.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände",
+      "neue Triebe aus Blütenständen"
+    ],
+    "wachstumsphase": [
+      "Blütephase"
+    ],
+    "erste_symptome": [
+      "einzelne neue, normal geformte Fanblätter wachsen direkt aus einem Blütenstand heraus"
+    ],
+    "typische_ursachen": [
+      "versehentliche Unterbrechung des Dunkelzyklus (Lichtleck) während der Blüte",
+      "fehlerhafte Zeitschaltuhr-Einstellung, die wieder auf einen Langtag-Zyklus zurückfällt",
+      "Stress-bedingte hormonelle Verschiebung bei extremen Umweltbedingungen"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "samenbildung-in-buds",
+    "name_de": "Samenbildung in Buds",
+    "name_en": "Seeded Buds",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Folge von Bestäubung (durch eigene Stressbananen, eine übersehene männliche Pflanze oder Pollenflug von aussen) - sichtbar als sich entwickelnde Samen innerhalb der Blütenkelche statt reiner Blütenmasse.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände, innerhalb der Kelche"
+    ],
+    "wachstumsphase": [
+      "mittlere bis späte Blüte"
+    ],
+    "erste_symptome": [
+      "einzelne Blütenkelche wirken leicht geschwollen/verdickt im Vergleich zu unbefruchteten Kelchen"
+    ],
+    "typische_ursachen": [
+      "eigene unentdeckte Stressbananen/Zwitterbildung",
+      "übersehene männliche Pflanze in der Nähe",
+      "Pollenflug von aussen, v.a. bei Outdoor-Anbau oder offenen Fenstern"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "sauerstoffmangel-wurzelzone",
+    "name_de": "Sauerstoffmangel in der Wurzelzone",
+    "name_en": "Root Zone Oxygen Deficiency",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "Zu wenig Sauerstoff im Substrat oder in der Nährlösung (oft durch Verdichtung oder fehlende Belüftung) hemmt die Wurzelatmung und damit die Nährstoffaufnahme.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze (Folgesymptome)"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, kritisch in Hydro/DWC-Systemen"
+    ],
+    "erste_symptome": [
+      "leicht verlangsamtes Wachstum trotz korrekter Nährstoffversorgung",
+      "leichtes Welken trotz feuchtem Substrat"
+    ],
+    "typische_ursachen": [
+      "stark verdichtetes oder zu feinkörniges Substrat ohne Luftporenanteil (z.B. zu hoher Lehmanteil)",
+      "fehlende oder unzureichende Belüftung/Luftpumpe in Hydro-/DWC-Systemen",
+      "chronische Überwässerung verdrängt Luft aus den Substratporen"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "schildlaeuse",
+    "name_de": "Schildläuse",
+    "name_en": "Scale Insects",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Stationäre, unter einer harten oder weichen Schutzschicht verborgene Insekten, die sich meist an Stängeln und Blattadern festsetzen und dort dauerhaft saugen.",
+    "betroffene_pflanzenteile": [
+      "Stängel",
+      "Blattadern",
+      "Blattunterseiten"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "kleine, runde bis ovale, leicht erhabene bräunliche oder graue Schildchen entlang von Stängeln oder Blattadern"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Pflanzen",
+      "häufiger bei Mutterpflanzen/Langzeitkulturen, die selten komplett erneuert werden"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "schimmel-waehrend-trocknung",
+    "name_de": "Schimmel während der Trocknung",
+    "name_en": "Mold During Drying",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Anders als Bud Rot an der lebenden Pflanze entsteht dieser Schimmel nach der Ernte durch zu hohe Luftfeuchtigkeit oder zu dichte Aufhängung während des Trocknungsprozesses.",
+    "betroffene_pflanzenteile": [
+      "geerntete, trocknende Blütenstände"
+    ],
+    "wachstumsphase": [
+      "nach der Ernte, Trocknungsphase"
+    ],
+    "erste_symptome": [
+      "einzelne Stellen im Inneren dichter Blütenstände fühlen sich beim Trocknen weiterhin feucht/weich an",
+      "leicht modriger Geruch in einzelnen Bereichen des Trocknungsraums"
+    ],
+    "typische_ursachen": [
+      "zu hohe Luftfeuchtigkeit im Trocknungsraum (Zielbereich meist 45-55% RH)",
+      "zu dichtes Aufhängen der Blütenstände ohne ausreichenden Abstand",
+      "unzureichende Luftzirkulation im Trocknungsraum"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-trockenraum-einrichten/",
+      "https://meineplantage.de/cannabis-trocknungsfehler-vermeiden/"
+    ]
+  },
+  {
+    "slug": "schlechte-trichom-entwicklung",
+    "name_de": "Schlechte Trichom-Entwicklung",
+    "name_en": "Poor Trichome Development",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Die Blütenstände entwickeln insgesamt weniger und kleinere Trichome als bei der Genetik zu erwarten - meist eine Kombination aus Licht-, Nährstoff- und Klimafaktoren in der späten Blüte statt einer Einzelursache.",
+    "betroffene_pflanzenteile": [
+      "Blütenstände, Trichom-Schicht"
+    ],
+    "wachstumsphase": [
+      "mittlere bis späte Blüte"
+    ],
+    "erste_symptome": [
+      "Blütenstände wirken im Vergleich zu Referenzbildern der Sorte weniger \"glitzernd\"/bereift",
+      "Trichome erscheinen sparlich oder kleiner als erwartet"
+    ],
+    "typische_ursachen": [
+      "unzureichende Lichtintensität/falsches Spektrum in der Spätblüte",
+      "suboptimale Temperatur (zu hoch reduziert oft die Trichomproduktion) in der späten Blüte",
+      "unzureichende PK-Versorgung in der Hauptblüte",
+      "genetische Sorteneigenschaft (manche Phänotypen sind grundsätzlich trichomärmer)"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "schwefelmangel",
+    "name_de": "Schwefelmangel",
+    "name_en": "Sulfur Deficiency (S)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Seltener, eher immobiler Mangel mit gleichmässiger Vergilbung wie Stickstoff, aber an NEUEN/oberen Blättern statt unten - leicht zu verwechseln.",
+    "betroffene_pflanzenteile": [
+      "neue, obere Blätter",
+      "Triebspitzen"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "leichte gleichmässige Aufhellung der neuen, obersten Blätter",
+      "Blattadern bleiben anfangs leicht grüner als die Fläche"
+    ],
+    "typische_ursachen": [
+      "extrem schwefelarmes Substrat oder Wasser",
+      "Verwendung von schwefelfreien Reinst-Düngern über lange Zeit",
+      "sehr seltene Ursache, meist andere Mangel zürst ausschliessen"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/schwefelmangel-cannabis-erkennen/"
+    ]
+  },
+  {
+    "slug": "spinnmilben",
+    "name_de": "Spinnmilben",
+    "name_en": "Spider Mites",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Winzige Spinnentiere, die feine helle Sprenkel (Stippling) auf der Blattoberseite verursachen und bei starkem Befall feine Gespinste zwischen Blättern und Trieben spinnen.",
+    "betroffene_pflanzenteile": [
+      "Blattoberseite und -unterseite",
+      "Blattachseln bei starkem Befall"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. trockene warme Bedingungen"
+    ],
+    "erste_symptome": [
+      "feine, helle Sprenkel (kleine weisse/gelbliche Pünktchen) verteilt auf der Blattoberseite"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Pflanzen, Kleidung oder Aussenluft",
+      "warme, trockene Raumbedingungen (niedrige Luftfeuchtigkeit) fördern explosionsartige Vermehrung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/spinnmilben-bekaempfen-cannabis/",
+      "https://meineplantage.de/cannabis-weisse-punkte-blaetter/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "stickstoffmangel",
+    "name_de": "Stickstoffmangel",
+    "name_en": "Nitrogen Deficiency (N)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Mobiler Makronährstoff-Mangel. Pflanze verlagert Stickstoff aus alten in neue Blätter, dadurch beginnt Vergilbung immer unten und wandert nach oben.",
+    "betroffene_pflanzenteile": [
+      "untere Blätter",
+      "ältere Fanblätter",
+      "gesamte Pflanze bei Fortschritt"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "frühe Blüte (normal, da N-Bedarf sinkt)"
+    ],
+    "erste_symptome": [
+      "gleichmässige Vergilbung der untersten, ältesten Blätter",
+      "Blattadern vergilben mit (kein Unterschied wie bei Mg/Fe)",
+      "hellgrüne Gesamtfarbe der Pflanze"
+    ],
+    "typische_ursachen": [
+      "zu wenig oder kein Stickstoffdünger",
+      "ausgelaugtes Substrat ohne Nachdüngung",
+      "zu niedriger pH-Wert blockiert N-Aufnahme",
+      "normale späte Blütephase (physiologisch korrekt)"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/outdoor-cannabis-probleme-erkennen/",
+      "https://meineplantage.de/cannabis-mangel-erkennen-uebersicht/",
+      "https://meineplantage.de/cannabis-gelbe-blaetter-bluete/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "stickstoffueberschuss",
+    "name_de": "Stickstoffüberschuss",
+    "name_en": "Nitrogen Excess/Toxicity",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Zu viel Stickstoff führt zu dunkelgrünen, glänzenden, klauenartig nach unten gekrümmten Blättern und verzögertem Blütebeginn.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze",
+      "Blattspitzen"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase",
+      "Übergang zur Blüte"
+    ],
+    "erste_symptome": [
+      "sehr dunkelgrüne, fast glänzende Blattfarbe",
+      "leichtes Abwärtskrümmen der Blattspitzen (\"Klauen\")"
+    ],
+    "typische_ursachen": [
+      "zu hohe N-Dosierung im Wachstumsdünger",
+      "zu spätes Umstellen auf Blütendünger",
+      "Überdüngung mit organischem Stickstoffdünger (Guano, Hornspäne)"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-krallenblaetter-ursache/"
+    ]
+  },
+  {
+    "slug": "thripse",
+    "name_de": "Thripse",
+    "name_en": "Thrips",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Winzige, länglich-schlanke Insekten, die an der Blattoberfläche saugen und silbrig-glänzende Fraßspuren mit kleinen schwarzen Kotpunkten hinterlassen.",
+    "betroffene_pflanzenteile": [
+      "Blattoberseite",
+      "Blüten bei starkem Befall"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "feine silbrig-glänzende Streifen/Flecken auf der Blattoberseite",
+      "kleine schwarze Kotpunkte verteilt auf dem Blatt"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Pflanzen oder offene Fenster/Outdoor-Nähe",
+      "warme, trockene Bedingungen fördern die Vermehrung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-schaedlinge-erkennen/",
+      "https://meineplantage.de/thripse-cannabis-erkennen/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "topping-fim-trainingsfehler",
+    "name_de": "Topping/FIM-Trainingsfehler",
+    "name_en": "Topping/FIM Mistakes",
+    "kategorie": "Wachstums- und Trainingsprobleme",
+    "kurzbeschreibung": "Falsch ausgeführtes Topping oder FIM (z.B. zu später Zeitpunkt, falscher Schnittpunkt) führt zu unerwünschten Wuchsformen wie nur einem statt zwei neuen Trieben oder verzögerter Regeneration.",
+    "betroffene_pflanzenteile": [
+      "Schnittstelle",
+      "neue Triebe an der Schnittstelle"
+    ],
+    "wachstumsphase": [
+      "direkt nach der Massnahme, Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "an der Schnittstelle bildet sich nur EIN neuer Trieb statt der erwünschten zwei (bei Topping) oder gar keiner",
+      "verzögerte Reaktion über mehr als 1-2 Wochen"
+    ],
+    "typische_ursachen": [
+      "Schnitt zu tief oder zu hoch am falschen Blattknoten angesetzt",
+      "FIM nicht präzise genug ausgeführt (zu viel oder zu wenig Gewebe entfernt)",
+      "Topping nach Blütebeginn statt in der Wachstumsphase",
+      "Pflanze zu jung/schwach für die Massnahme"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "trainingsstress",
+    "name_de": "Trainingsstress (LST/Topping/Defoliation falsch ausgeführt)",
+    "name_en": "Training Stress",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "Falsch dosierte oder zum falschen Zeitpunkt durchgeführte Trainingstechniken (zu starkes Entlauben, Topping in der Blüte, zu aggressives LST) überlasten die Pflanze kurzfristig.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze",
+      "betroffene Schnitt-/Biegestellen"
+    ],
+    "wachstumsphase": [
+      "direkt nach Trainingsmassnahme, alle Phasen"
+    ],
+    "erste_symptome": [
+      "leichtes Welken der behandelten Bereiche kurz nach der Massnahme",
+      "vorübergehender Wachstumsstillstand"
+    ],
+    "typische_ursachen": [
+      "zu starke Entlaubung (mehr als 20-30% der Blattmasse auf einmal)",
+      "Topping/FIM zu spät (nach Blütebeginn) oder zu häufig",
+      "zu aggressives LST ohne ausreichende Erholungspausen zwischen den Biegungen"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-stecklinge-schneiden-und-bewurzeln/"
+    ]
+  },
+  {
+    "slug": "transplantationsschock",
+    "name_de": "Transplantationsschock",
+    "name_en": "Transplant Shock",
+    "kategorie": "Wurzelprobleme",
+    "kurzbeschreibung": "Vorübergehender Stress nach dem Umtopfen durch Wurzelverletzung und veränderte Bedingungen - zeigt sich als kurzes Welken/Wachstumsstillstand, der sich innerhalb weniger Tage von selbst erholt.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "direkt nach dem Umtopfen, alle Wachstumsphasen"
+    ],
+    "erste_symptome": [
+      "leichtes, gleichmässiges Welken kurz nach dem Umtopfen",
+      "Wachstum pausiert für einige Tage"
+    ],
+    "typische_ursachen": [
+      "Wurzelverletzung beim Umtopfen",
+      "plötzlicher Wechsel von Substrat, Licht oder Klima beim Umtopfen",
+      "zu grosser Topfsprung (z.B. direkt von sehr kleinem in sehr grossen Topf)"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-umtopfen/"
+    ]
+  },
+  {
+    "slug": "trauermuecken",
+    "name_de": "Trauermuecken",
+    "name_en": "Fungus Gnats",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Kleine schwarze Fliegen, deren Larven im feuchten Substrat Wurzelhaare und organisches Material fressen - adulte Tiere fliegen oft um die Pflanze, Larvenschäden zeigen sich als diffuses Wachstumsdefizit.",
+    "betroffene_pflanzenteile": [
+      "Wurzelhaare",
+      "Substratoberfläche"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, v.a. bei dauerhaft feuchtem Substrat"
+    ],
+    "erste_symptome": [
+      "kleine schwarze Fliegen, die beim Giessen oder bei Berührung des Substrats aufsteigen",
+      "leicht verlangsamtes Wachstum"
+    ],
+    "typische_ursachen": [
+      "dauerhaft zu feuchte Substratoberfläche",
+      "organisches Material (z.B. abgestorbene Pflanzenteile) im Substrat als Nahrungsquelle für Larven"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/trauermuecken-cannabis-larven-bekaempfen/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "ueberwaesserung",
+    "name_de": "Überwässerung",
+    "name_en": "Overwatering",
+    "kategorie": "Bewaesserungsprobleme",
+    "kurzbeschreibung": "Zu häufiges oder zu reichliches Giessen verdrängt Sauerstoff aus dem Substrat - sichtbar als hängende, schlaff wirkende Blätter trotz nassem Substrat, oft mit dunkleren, leicht aufgequollenen Blattflächen.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "Blätter hängen schlaff trotz nassem Substrat",
+      "Substrat fühlt sich durchgehend nass an, trocknet kaum ab"
+    ],
+    "typische_ursachen": [
+      "zu häufiger Giessrhythmus ohne Berücksichtigung der tatsächlichen Substrattrocknung",
+      "zu grosser Topf im Verhältnis zur Pflanzengrösse (hält Feuchtigkeit länger)",
+      "schlechte Drainage des Substrats/Topfes"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-ueberwaessert-was-tun/",
+      "https://meineplantage.de/cannabis-indoor-anbau-anleitung/",
+      "https://meineplantage.de/cannabis-blattspitzen-braun/",
+      "https://meineplantage.de/cannabis-blaetter-rollen-sich-ein/",
+      "https://meineplantage.de/cannabis-gelbe-blaetter-bluete/"
+    ]
+  },
+  {
+    "slug": "ungleichmaessiges-blaetterdach-scrog-mainlining",
+    "name_de": "Ungleichmässiges Blätterdach nach SCRoG/Mainlining-Fehlern",
+    "name_en": "Uneven Canopy After SCRoG/Mainlining Errors",
+    "kategorie": "Wachstums- und Trainingsprobleme",
+    "kurzbeschreibung": "Fehler beim Aufbau eines SCRoG-Netzes oder bei der Mainlining-Aufteilung führen zu ungleicher Lichtverteilung - manche Blütenstände werden überentwickelt, andere bleiben im Schatten zurück.",
+    "betroffene_pflanzenteile": [
+      "untere/beschattete Blütenstände",
+      "Gesamtstruktur des Blätterdachs"
+    ],
+    "wachstumsphase": [
+      "Blütephase, Ursache liegt in vorheriger Trainingsphase"
+    ],
+    "erste_symptome": [
+      "einige Bereiche des Blätterdachs liegen sichtbar höher/näher am Licht als andere",
+      "erste Anzeichen von ungleichem Blütenstand-Wachstum"
+    ],
+    "typische_ursachen": [
+      "ungleichmässige Verteilung der Zweige im SCRoG-Netz während der Trainingsphase",
+      "asymmetrische Mainlining-Aufteilung mit ungleich starken Haupttrieben",
+      "fehlende Nachkorrektur des Netzes/der Triebführung während des weiteren Wachstums"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "unregelmaessige-bewaesserung",
+    "name_de": "Unregelmässige Bewässerung",
+    "name_en": "Inconsistent Watering",
+    "kategorie": "Bewaesserungsprobleme",
+    "kurzbeschreibung": "Ständiger Wechsel zwischen zu trocken und zu nass stresst die Wurzeln stärker als durchgehend gleichmässige Unter- oder Überwässerung - typisch sind wechselnde, scheinbar widersprüchliche Symptome.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze",
+      "Wurzeln"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "Blätter wechseln zwischen leicht hängend (zu trocken) und leicht hängend-glänzend (zu nass) im Tagesverlauf/zwischen Giessgängen",
+      "unregelmässiges, ruckartiges Wachstum"
+    ],
+    "typische_ursachen": [
+      "kein fester Giessrhythmus, Giessen \"nach Gefühl\" statt nach Substratfeuchte-Messung",
+      "stark wechselnde Topfgrösse zur Pflanzengrösse (zu grosser Topf trocknet ungleichmässig)",
+      "unterschiedliche Personen giessen ohne Abstimmung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-richtig-giessen/"
+    ]
+  },
+  {
+    "slug": "unterwaesserung",
+    "name_de": "Unterwässerung",
+    "name_en": "Underwatering",
+    "kategorie": "Bewaesserungsprobleme",
+    "kurzbeschreibung": "Zu seltenes oder zu wenig Giessen führt zu trockenem Substrat und welken, schlaffen Blättern - im Unterschied zur Überwässerung erholen sich die Blätter sichtbar schnell nach dem nächsten Giessen.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "Blätter hängen schlaff, Substrat fühlt sich trocken bis staubtrocken an",
+      "Topf wirkt beim Anheben auffällig leicht"
+    ],
+    "typische_ursachen": [
+      "zu seltener oder zu knapper Giessrhythmus",
+      "zu kleiner Topf im Verhältnis zur Pflanzengrösse (siehe [[wurzelverdichtung-topfgebunden]])",
+      "sehr trockene Raumluft, die das Substrat zusätzlich schneller austrocknet"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-richtig-giessen/",
+      "https://meineplantage.de/cannabis-blaetter-rollen-sich-ein/"
+    ]
+  },
+  {
+    "slug": "verticillium-welke",
+    "name_de": "Verticillium-Welke",
+    "name_en": "Verticillium Wilt",
+    "kategorie": "Krankheiten / Pilzbefall",
+    "kurzbeschreibung": "Seltene, aber aggressive systemische Pilzkrankheit mit ähnlichem Erscheinungsbild wie Fusarium-Welke - typisch ist fortschreitendes Welken von unten nach oben mit gelblich-bronzefarbener Verfärbung der unteren Blätter vor dem Welken.",
+    "betroffene_pflanzenteile": [
+      "Leitgewebe",
+      "untere Blätter zürst, dann aufsteigend"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "gelblich-bronzefarbene Verfärbung der untersten Blätter, kurz vor dem Welken"
+    ],
+    "typische_ursachen": [
+      "Pilzinfektion über kontaminiertes Substrat, oft aus vorbelasteten Böden/Outdoor-Standorten",
+      "sehr widerstandsfähiger Erreger, der lange im Boden überleben kann"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "vorzeitige-bluete-autoflower-stress",
+    "name_de": "Vorzeitige Blüte bei Autoflowers durch Stress",
+    "name_en": "Premature Flowering in Autoflowers (Stress-Induced)",
+    "kategorie": "Bluete-/Ernteprobleme",
+    "kurzbeschreibung": "Autoflowering-Sorten blühen altersgesteuert, können aber durch starken frühen Stress (Transplantation, Trainingsfehler) verfrüht und mit insgesamt kleinerer Pflanzenstruktur in die Blüte übergehen.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "Übergang Wachstum zu Blüte bei Autoflowers"
+    ],
+    "erste_symptome": [
+      "erste Blütenansätze deutlich früher als für die Sortenbeschreibung erwartet",
+      "insgesamt kleinere Pflanzengrösse zum Zeitpunkt des Blütebeginns"
+    ],
+    "typische_ursachen": [
+      "starker Transplantationsschock bei spätem/grobem Umtopfen",
+      "aggressives Training (starke Entlaubung, Topping) zu fruh in der Wachstumsphase",
+      "Wurzelschäden durch Schädlinge oder mechanische Verletzung"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "vpd-zu-hoch",
+    "name_de": "VPD zu hoch",
+    "name_en": "VPD Too High",
+    "kategorie": "Temperatur / Luftfeuchtigkeit / VPD",
+    "kurzbeschreibung": "Ein zu hoher Dampfdruckdefizit-Wert (z.B. durch hohe Temperatur kombiniert mit niedriger Luftfeuchtigkeit) zwingt die Pflanze zu übermässiger Transpiration - sichtbar als Spitzenverbrennung trotz korrekter Düngung.",
+    "betroffene_pflanzenteile": [
+      "Blattspitzen und -ränder",
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "leichtes Aufwärtskrümmen der Blattränder (Taco-Form)",
+      "leicht trockene, fast spitze Blattspitzen"
+    ],
+    "typische_ursachen": [
+      "Kombination aus zu hoher Temperatur und zu niedriger relativer Luftfeuchtigkeit",
+      "fehlende oder falsch eingestellte Klimasteuerung im Anbauraum"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/luftfeuchtigkeit-cannabis-anbau/"
+    ]
+  },
+  {
+    "slug": "vpd-zu-niedrig",
+    "name_de": "VPD zu niedrig",
+    "name_en": "VPD Too Low",
+    "kategorie": "Temperatur / Luftfeuchtigkeit / VPD",
+    "kurzbeschreibung": "Ein zu niedriger VPD-Wert (z.B. durch hohe Luftfeuchtigkeit bei niedriger Temperatur) lässt die Stomata schliessen - die Pflanze nimmt kaum noch CO2 auf, Wachstum stagniert trotz optimaler sonstiger Bedingungen.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen, kritisch in der Blüte (zusätzliches Botrytis-Risiko)"
+    ],
+    "erste_symptome": [
+      "allgemein verlangsamtes Wachstum trotz optimaler Licht- und Nährstoffbedingungen",
+      "Blätter wirken leicht schlaff-feucht, ohne zu welken"
+    ],
+    "typische_ursachen": [
+      "zu hohe relative Luftfeuchtigkeit kombiniert mit zu niedriger Temperatur",
+      "schlechte Luftzirkulation, die Feuchtigkeit an der Pflanze stauen lässt"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/luftfeuchtigkeit-cannabis-anbau/"
+    ]
+  },
+  {
+    "slug": "wachstumsstagnation-sammeldiagnose",
+    "name_de": "Wachstumsstagnation (Sammeldiagnose)",
+    "name_en": "Growth Stagnation (Umbrella Diagnosis)",
+    "kategorie": "Wachstums- und Trainingsprobleme",
+    "kurzbeschreibung": "Übergeordnete Einstiegsdiagnose für \"die Pflanze wächst einfach nicht\" ohne sofort erkennbares Einzelsymptom - dient als Wizard-Einstiegspunkt, der zu spezifischeren Diagnosen (Wurzel, Licht, Nährstoff, Klima) weiterleitet.",
+    "betroffene_pflanzenteile": [
+      "gesamte Pflanze"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "allgemein langsameres Wachstum als erwartet, ohne spezifisches Blattsymptom"
+    ],
+    "typische_ursachen": [
+      "kann praktisch JEDE andere Diagnose dieser Datenbank als zugrunde liegende Ursache haben: Wurzelverdichtung, pH-Lockout, Lichtmangel/Etiolation, CO2-Mangel, Sauerstoffmangel, Nährstoffmangel im frühen, noch unspezifischen Stadium"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-wachstum-stagniert/"
+    ]
+  },
+  {
+    "slug": "wassertemperatur-stress",
+    "name_de": "Wassertemperatur-Stress",
+    "name_en": "Water Temperature Stress",
+    "kategorie": "Bewaesserungsprobleme",
+    "kurzbeschreibung": "Zu kaltes Giesswasser (direkt aus der Leitung, unter 18 Grad) stresst die Wurzeln und kann sich wie eine Mischung aus Kältestress und Phosphormangel zeigen, ohne dass die Raumtemperatur das Problem ist.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze indirekt"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "leichte Wachstumsverzögerung direkt nach dem Giessen mit kaltem Wasser",
+      "gelegentlich leichte Lila-Verfärbung an Blattstielen (P-Aufnahme sinkt bei Kälte)"
+    ],
+    "typische_ursachen": [
+      "Giesswasser wird direkt und ungekühlt aus einer kalten Leitung entnommen",
+      "besonders im Winter/bei kalter Wasserzufuhr ohne Zwischenlagerung auf Raumtemperatur"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-richtig-giessen/"
+    ]
+  },
+  {
+    "slug": "weisse-fliegen",
+    "name_de": "Weisse Fliegen",
+    "name_en": "Whiteflies",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Kleine, weisse, mottenartige Insekten, die bei Berührung der Pflanze in Schwärmen auffliegen - Saugschäden ähneln Blattläusen, aber das Schwarmverhalten ist das eindeutigste Erkennungsmerkmal.",
+    "betroffene_pflanzenteile": [
+      "Blattunterseiten"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "kleine weisse Insekten fliegen beim Berühren/Schütteln der Pflanze in einem Schwarm auf",
+      "leichte gelbliche Sprenkelung auf Blattoberseiten durch Saugschäden"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Pflanzen",
+      "warme Bedingungen fördern schnelle Vermehrung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-schaedlinge-erkennen/",
+      "https://meineplantage.de/weisse-fliege-cannabis-bekaempfen/",
+      "https://meineplantage.de/cannabis-krankheiten-erkennen/"
+    ]
+  },
+  {
+    "slug": "windbrand",
+    "name_de": "Windbrand",
+    "name_en": "Wind Burn",
+    "kategorie": "Umweltstress",
+    "kurzbeschreibung": "Zu starker, direkter Luftstrom (Ventilator Indoor oder Wind Outdoor) verursacht mechanischen Austrocknungsstress an den am stärksten exponierten Blättern - unabhängig vom Blattalter, anders als Nährstoffmangel.",
+    "betroffene_pflanzenteile": [
+      "exponierte Randblätter, unabhängig vom Alter"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "trockene, leicht knusprige Ränder an den dem Luftstrom am stärksten ausgesetzten Blättern"
+    ],
+    "typische_ursachen": [
+      "Ventilator zu nah und zu direkt auf die Pflanze gerichtet (Indoor)",
+      "starker, ungeschützter Wind am Standort (Outdoor)"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-windschaeden-symptome/",
+      "https://meineplantage.de/cannabis-blattspitzen-braun/"
+    ]
+  },
+  {
+    "slug": "wollaeuse",
+    "name_de": "Wolläuse",
+    "name_en": "Mealybugs",
+    "kategorie": "Schaedlinge",
+    "kurzbeschreibung": "Kleine, stationäre Insekten, die mit einer auffälligen weissen, wachsartig-wolligen Schicht bedeckt sind und sich oft in Blattachseln und an Stengelknoten ansammeln.",
+    "betroffene_pflanzenteile": [
+      "Blattachseln",
+      "Stengelknoten",
+      "Blattunterseiten"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "kleine weisse, wattige/wollige Klumpen in Blattachseln oder an Stengelknoten"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch befallene Pflanzen",
+      "warme, etwas geschützte Mikroklimate (Blattachseln) fördern die Ansiedlung"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/wolllaeuse-cannabis-bekaempfen/"
+    ]
+  },
+  {
+    "slug": "wurzellaeuse",
+    "name_de": "Wurzelläuse",
+    "name_en": "Root Aphids",
+    "kategorie": "Wurzelprobleme",
+    "kurzbeschreibung": "Schädlinge, die im Substrat an den Wurzeln saugen - oberirdisch zeigt sich ein diffuses Vergilben und Welken, das an Nährstoffmangel erinnert, aber nicht auf Düngung reagiert.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze (Folgesymptome)"
+    ],
+    "wachstumsphase": [
+      "alle Phasen"
+    ],
+    "erste_symptome": [
+      "leichtes, diffuses Vergilben älterer Blätter ohne klares Muster",
+      "leicht verlangsamtes Wachstum"
+    ],
+    "typische_ursachen": [
+      "Einschleppung durch kontaminiertes Substrat oder benachbarte befallene Pflanzen",
+      "günstige Bedingungen (warme, feuchte Substratoberfläche) fördern die Vermehrung"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "wurzelverdichtung-topfgebunden",
+    "name_de": "Wurzelverdichtung / Topfgebunden",
+    "name_en": "Root Bound",
+    "kategorie": "Wurzelprobleme",
+    "kurzbeschreibung": "Die Pflanze ist im Verhältnis zur Topfgrösse zu weit gewachsen, Wurzeln drehen sich am Topfrand im Kreis - sichtbar als Wachstumsstillstand trotz korrekter Pflege.",
+    "betroffene_pflanzenteile": [
+      "Wurzeln",
+      "gesamte Pflanze (Folge)"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase, v.a. später Vegetationszeitraum"
+    ],
+    "erste_symptome": [
+      "Wachstum verlangsamt sich trotz korrekter Düngung und Bewässerung",
+      "Substrat trocknet ungewöhnlich schnell nach dem Giessen aus"
+    ],
+    "typische_ursachen": [
+      "zu kleiner Topf für die Pflanzengrösse/Kulturdauer",
+      "kein rechtzeitiges Umtopfen während der Wachstumsphase"
+    ],
+    "mehr_infos": [
+      "https://meineplantage.de/cannabis-umtopfen/"
+    ]
+  },
+  {
+    "slug": "zinktoxizitaet",
+    "name_de": "Zink-Toxizität",
+    "name_en": "Zinc Toxicity",
+    "kategorie": "Naehrstoffueberschuss",
+    "kurzbeschreibung": "Sehr seltene Toxizität durch massive Überdosierung, induziert oft einen sekundären Eisenmangel an neuen Blättern (Antagonismus).",
+    "betroffene_pflanzenteile": [
+      "neue Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "interveinale Chlorose an neuen Blättern, ähnlich Eisenmangel"
+    ],
+    "typische_ursachen": [
+      "massive Überdosierung eines Zink-Präparats oder Mikronährstoff-Mixes",
+      "Verwendung verzinkter Materialien im Bewässerungssystem (sehr selten)"
+    ],
+    "mehr_infos": []
+  },
+  {
+    "slug": "zinkmangel",
+    "name_de": "Zinkmangel",
+    "name_en": "Zinc Deficiency (Zn)",
+    "kategorie": "Naehrstoffmangel",
+    "kurzbeschreibung": "Immobiler Mikronährstoff-Mangel mit verkürzten Internodien, kleinen, verformten neuen Blättern und interveinaler Chlorose an Triebspitzen.",
+    "betroffene_pflanzenteile": [
+      "neue Triebspitzen",
+      "oberste Blätter"
+    ],
+    "wachstumsphase": [
+      "Wachstumsphase"
+    ],
+    "erste_symptome": [
+      "kleine, leicht verformte neue Blätter an der Spitze",
+      "leichte interveinale Aufhellung an jüngstem Wachstum"
+    ],
+    "typische_ursachen": [
+      "zu hoher pH-Wert blockiert Zn-Aufnahme",
+      "Phosphor-Überschuss verdrängt Zink",
+      "sehr seltene echte Substratarmut"
+    ],
+    "mehr_infos": []
+  }
+]
