@@ -1,6 +1,6 @@
 # Cannabis Grow Diagnosis Dataset
 
-An open, structured dataset of common cannabis cultivation problems — deficiencies, pests, diseases, environmental stress, and growth issues. Maintained by [MeinePlantage.de](https://meineplantage.de), a German-language cannabis growing knowledge platform.
+An open, structured dataset of common cannabis cultivation problems — deficiencies, pests, diseases, environmental stress, and growth issues. Maintained by [PlantClue](https://plantclue.com), a German-language cannabis growing knowledge platform.
 
 ## What's in here
 
@@ -25,15 +25,15 @@ An open, structured dataset of common cannabis cultivation problems — deficien
 
 ## What's NOT in here
 
-This is a deliberately reduced excerpt. Immediate remedies, long-term solutions, differential-diagnosis logic (how to tell similar-looking problems apart), and severity staging are not part of this public dataset — those live in the full diagnosis system on [meineplantage.de/diagnose](https://meineplantage.de/diagnose/), including a free interactive diagnosis wizard.
+This is a deliberately reduced excerpt. Immediate remedies, long-term solutions, differential-diagnosis logic (how to tell similar-looking problems apart), and severity staging are not part of this public dataset — those live in the full diagnosis system on [plantclue.com/diagnose](https://plantclue.com/diagnose/), including a free interactive diagnosis wizard.
 
 ## License
 
-Licensed under [CC BY 4.0](LICENSE) — free to use, share, and adapt, including commercially, as long as you give appropriate credit and link back to this repository or to [meineplantage.de](https://meineplantage.de).
+Licensed under [CC BY 4.0](LICENSE) — free to use, share, and adapt, including commercially, as long as you give appropriate credit and link back to this repository or to [plantclue.com](https://plantclue.com).
 
 ## Source / more information
 
-- Interactive diagnosis wizard: https://meineplantage.de/diagnose/
-- Full knowledge base: https://meineplantage.de/wissen/
+- Interactive diagnosis wizard: https://plantclue.com/diagnose/
+- Full knowledge base: https://plantclue.com/wissen/
 
 Data is maintained periodically; not guaranteed to reflect the latest state of the live database at all times.
